@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# Editor backups
+*~
+
+# Executables
+subpolynomial_experiment_generator
+
